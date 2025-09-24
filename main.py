@@ -1,5 +1,6 @@
 from cavalo import Cavalo
 
-Cavalo.comer("grama")
+Cavalo.trotar("picada")
 print()
-Cavalo.dormir(6)
+
+Cavalo.raca("manga larga")
