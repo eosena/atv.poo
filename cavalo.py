@@ -1,6 +1,7 @@
 class Cavalo():
-    def comer(comida):
-        print(f"A comida {comida} está deliciosa!")
+    def trotar(marcha):
+        print(f"O trote do cavalo é de {marcha}!")
 
-    def dormir(horas):
-        print(f"O cavalo dormiu por {horas} horas!")
+    def raca(pelagem):
+
+        print(f"O cavalo é da raça {pelagem}!")
